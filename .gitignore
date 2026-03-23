@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.log
+neural_drive_master_report.pdf
+session_summary.png
+drowsiness_log.csv
+.streamlit/
+.DS_Store
+*.task
